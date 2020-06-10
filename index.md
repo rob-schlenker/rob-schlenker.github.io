@@ -9,8 +9,9 @@ JS Project
 
 # About Me
 Ecommerece email marketer who fell in love with coding and wanted to dive in!
+[LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
 
-# Resume
+
 
 
 <!-- 
