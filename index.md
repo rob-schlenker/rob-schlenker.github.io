@@ -1,8 +1,14 @@
 Hi! Welcome to my site where you can learn about me and the projects I'm working on.
 
 # Projects
+Will Ferrel's House of Movies
+Angular Project
+
+Budget Buddy
+JS Project
 
 # About Me
+Ecommerece email marketer who fell in love with coding and wanted to dive in!
 
 # Resume
 
