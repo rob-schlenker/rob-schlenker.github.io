@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Hi! Welcome to my site where you can learn about me and the projects I'm working on.
 
 You can use the [editor on GitHub](https://github.com/rob-schlenker/rob-schlenker.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
