@@ -1,15 +1,18 @@
 Hi! Welcome to my site where you can learn about me and the projects I'm working on.
 
 # Projects
-Will Ferrel's House of Movies
+## Will Ferrel's House of Movies
 Angular Project
 
-Budget Buddy
-JS Project
+## Budget Buddy
+Javascript Project
+[Budget Buddy in action](./pics/Budget-Buddy-GIF.gif)
+### [Check it Out!](https://rob-schlenker.github.io/Javascript-Project-Budget-Buddy/)
+
 
 # About Me
 Ecommerece email marketer who fell in love with coding and wanted to dive in!
-[LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
+### [LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
 
 
 
