@@ -6,6 +6,7 @@ Angular Project
 
 ## Budget Buddy
 Javascript Project
+
 ![Budget Buddy in action](./pics/Budget-Buddy-GIF.gif)
 ### [Check it Out!](https://rob-schlenker.github.io/Javascript-Project-Budget-Buddy/)
 
