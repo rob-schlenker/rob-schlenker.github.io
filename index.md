@@ -1,4 +1,4 @@
-Projects and Other Stuff I've Been Working On
+
 # Projects
 ## Will Ferrell's House of Movies
 Angular Project
