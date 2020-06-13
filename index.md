@@ -3,6 +3,8 @@ Hi! Welcome to my site where you can learn about me and the projects I'm working
 # Projects
 ## Will Ferrell's House of Movies
 Angular Project
+### [Check it Out!](https://wills-house-of-movies.surge.sh/movie)
+
 
 ## Budget Buddy
 Javascript Project
