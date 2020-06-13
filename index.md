@@ -3,6 +3,8 @@ Hi! Welcome to my site where you can learn about me and the projects I'm working
 # Projects
 ## Will Ferrell's House of Movies
 Angular Project
+
+![Will Ferrell's House of Movies in action](./pics/wills-house.gif)
 ### [Check it Out!](https://wills-house-of-movies.surge.sh/movie)
 
 
