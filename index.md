@@ -1,5 +1,4 @@
-Hi! Welcome to my site where you can learn about me and the projects I'm working on.
-
+Projects and Other Stuff I've Been Working On
 # Projects
 ## Will Ferrell's House of Movies
 Angular Project
@@ -16,7 +15,18 @@ Javascript Project
 
 
 # About Me
-Ecommerece email marketer who fell in love with coding and wanted to dive in!
+Skills: 
+* HTML / CSS
+* JavaScript
+* Angular
+* Node.JS
+* TypeScript
+* SQL
+* Web APIs
+* Git / GitHub
+* Photoshop
+
+Ecommerece email marketer who fell in love with coding and has a passion for beautiful user-friendly sites.
 ### [LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
 
 
