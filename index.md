@@ -15,7 +15,7 @@ Javascript Project
 
 
 # About Me
-Skills: 
+### Skills: 
 * HTML / CSS
 * JavaScript
 * Angular
@@ -28,6 +28,8 @@ Skills:
 
 Ecommerece email marketer who fell in love with coding and has a passion for beautiful user-friendly sites.
 ### [LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
+
+### [GitHub](https://github.com/rob-schlenker)
 
 
 
