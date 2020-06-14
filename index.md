@@ -26,7 +26,7 @@ Javascript Project
 * Git / GitHub
 * Photoshop
 
-Ecommerece email marketer who fell in love with coding and has a passion for beautiful user-friendly sites.
+Ecommerce Email marketer who fell in love with coding and has a passion for beautiful user-friendly sites.
 ### [LinkedIn](https://www.linkedin.com/in/rob-schlenker/)
 
 ### [GitHub](https://github.com/rob-schlenker)
