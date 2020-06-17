@@ -3,9 +3,8 @@
 @import "{{ site.theme }}";
 
 body {
+    font-family : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 }
-
-$helvetica : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 
 #project-title {
     font-size: 3rem;
